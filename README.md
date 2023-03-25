@@ -23,7 +23,7 @@
 <h1>Contact</h1>
 Feel free to contact us on Discord
 
-<a class="user" href="https://discord.com/users/726293592376606770"> <img src="https://lanyard.cnrad.dev/api/726293592376606770" title="Status"></img></a>
+<a align="center" href="https://discord.com/users/726293592376606770"> <img src="https://lanyard.cnrad.dev/api/726293592376606770" title="Status"></img></a>
 
 
 <h3 align="left">Connect with me:</h3>
